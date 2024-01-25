@@ -31,7 +31,7 @@ body {
 main {
   background-color: var(--background-color);
   width: 80%;
-  margin: 8rem auto; /* Center main on the page */
+  margin: 8rem auto; 
   padding: 0;
 }
 
@@ -62,8 +62,8 @@ main {
 }
 
 #tab-container button.active {
-  background-color: var(--hover-color); /* White background for active button */
-  color: var(--primary-color); /* Dark text for active button */
+  background-color: var(--hover-color); 
+  color: var(--primary-color); 
 }
 
 
